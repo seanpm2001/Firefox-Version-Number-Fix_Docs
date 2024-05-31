@@ -1,0 +1,1 @@
+🔥️🦊️🔢️📖️ The official documentation source repository for the proposed fix to the Firefox version numbering system used since Firefox 5.0 by @seanpm2001. It is not expected to be publicly implemented, but to be a guide to users for a cleaner numbering system. 
